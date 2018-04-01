@@ -1,0 +1,25 @@
+<table class="ui table blue">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Link</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each weblist.sites}}
+      <tr>
+        <td>
+            <h3> {{title}} </h3>
+        </td>
+        <td>
+          <a href="{{url}}" target="_blank" class="view">{{url}}
+       </a>
+        </td>
+         <td>
+          <a href="/weblist/{{../weblist.id}}/deletesite/{{id}}"><i class="delsite green trash icon"></i></a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>

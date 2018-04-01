@@ -1,0 +1,39 @@
+body {
+background-color:#E0F8F1;
+font-size: 18px;
+color: #00008B;
+}
+
+h2 
+	{
+   	font-size:18px;
+   	}
+h1 
+	{
+   	font-size:32px;
+   	}
+a
+{
+background-color:#FFFFF0;
+font-size: 18px;
+color: #00008B;
+}
+.u.i.table thead th {
+  background-color:navy;
+  color:white;
+}
+#map {
+  height: 400px;
+  width: 100%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+h3 {
+  color: #b48608;
+  font-family:'Driod serif', serif;
+  font-size: 22px;
+  font-weight: 400;
+}

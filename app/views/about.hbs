@@ -1,0 +1,29 @@
+{{> menu id="about"}}
+
+<section class="ui center aligned middle aligned segment - green">
+  <h1>
+   Customer support
+    </h1>
+  <p>
+     <big>Thank you for using Webmark! Please contact us if this is an urgent matter. AUS +3636458698 or mobile +36701456987 </big>
+  </p>
+  <h3>Please Use Google map to find us</h3>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: -25.363, lng: 131.044};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 4,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSH-MEAYrP70lwxXkW0_-bt1jq9uXKtjg&callback=initMap">
+    </script>
+  
+</section>

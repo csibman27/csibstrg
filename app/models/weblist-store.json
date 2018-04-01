@@ -1,0 +1,104 @@
+{
+  "weblistCollection": [
+    {
+      "id": "01",
+      "title": "HTML Learning Resources",
+      "sites": [
+        {
+          "id": "04",
+          "title": "W3schools",
+          "url": "http://www.w3schools.com"
+        },
+        {
+          "id": "05",
+          "title": "W3schools",
+          "url": "http://www.w3schools.com"
+        },
+        {
+          "id": "06",
+          "title": "Learn to Code HTML & CSS",
+          "url": "https://en.wikipedia.org/wiki/W3Schools"
+        },
+        {
+          "id": "f7445ab9-a836-4698-a92d-fe1bf5b22337",
+          "title": "Learn XML",
+          "url": "https://www.w3schools.com/xml/default.asp"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "CSS Learning Resources",
+      "sites": [
+        {
+          "id": "07",
+          "title": "MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS"
+        },
+        {
+          "id": "08",
+          "title": "W3schools",
+          "url": "https://www.w3schools.com/html/html_css.asp"
+        },
+        {
+          "id": "09",
+          "title": "LearnToProgram_Youtube",
+          "url": "https://www.youtube.com/watch?v=lT1ISIrHrIY"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Javascript Learning Resources",
+      "sites": [
+        {
+          "id": "10",
+          "title": "W3schools",
+          "url": "https://www.w3schools.com/js/"
+        },
+        {
+          "id": "11",
+          "title": "MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
+        },
+        {
+          "id": "12",
+          "title": "Derek Banas - Youtube tutorial",
+          "url": "https://www.youtube.com/watch?v=_cLvpJY2deo"
+        }
+      ]
+    },
+    {
+      "id": "6c5a7d94-b91b-4a9b-8ba2-a6bcffcc692c",
+      "title": "Test",
+      "sites": [
+        {
+          "id": "42b45655-f5d6-4b24-9417-e17bf1428242",
+          "title": "Test1",
+          "url": "https://en.wikipedia.org/wiki/Test"
+        },
+        {
+          "id": "9150f048-6a34-4767-974b-1cba66eb5c13",
+          "title": "Thanks for the test, well done :)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "id": "7b5c72d7-0108-4e1d-a3e4-d150f4978d19",
+      "title": "Popi",
+      "sites": [
+        {
+          "id": "61274070-a01f-4eb9-b76a-9feb99f295f7",
+          "title": "Indigo Nails",
+          "url": "http://indigonails.ie"
+        }
+      ]
+    },
+    {
+      "id": "c8d6b3d0-2365-4714-b92d-ed10c29c09d4",
+      "title": "Addiction",
+      "sites": []
+    }
+  ]
+}

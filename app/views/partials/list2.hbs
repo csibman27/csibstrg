@@ -1,0 +1,9 @@
+{{#each weblists}}
+  <section class="ui stacked segment">
+    <h3 class="ui header">
+      {{title}}
+    </h3>
+    <a href="/weblist/{{id}}" class='ui icon button'><i class="icon folder open"></i></a>
+    <a href="/dashboard/deleteWebList/{{id}}" class='dellist ui icon button'> <i class="icon trash"></i> </a>
+  </section>
+{{/each}}
